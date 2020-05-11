@@ -1,6 +1,7 @@
 const screensavers = [
-  "http://cdn.jsdelivr.net/gh/margo73465/squares/squares.js",
-  "http://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js"];
+  "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js",
+  "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js",
+  "https://cdn.jsdelivr.net/gh/margo73465/stars/margo-party.js"];
 const randomNumber = Math.floor(Math.random() * screensavers.length);
 const currentScreensaver = screensavers[randomNumber];
 const screensaverScript = document.createElement("script");
