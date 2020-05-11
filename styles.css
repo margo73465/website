@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+h1 {
+  font: 40px monospace;
+  font-weight: bold;
+  text-shadow: 0 0 7px black;
+  color: limegreen;
+  position: absolute;
+  margin-bottom: 0;
+  bottom: 30px;
+  left: 30px;
+}
