@@ -2,13 +2,25 @@ body {
   margin: 0;
   background-color: black;
 }
-h1 {
-  font: 40px monospace;
-  font-weight: bold;
-  text-shadow: 0 0 7px black;
-  color: limegreen;
+
+.text {
+  width: 100%;
+  text-align: center;
   position: absolute;
+  bottom: 0;
+  left: 0;
+  font-family: monospace;
+  color: limegreen;
+  text-shadow: 0 0 7px black;
+  background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 40px;
   margin-bottom: 0;
-  bottom: 30px;
-  left: 30px;
+}
+
+a {
+  color: limegreen;
 }
