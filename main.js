@@ -1,6 +1,6 @@
 const screensavers = [
   "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js",
-  //"https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js",
+  "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js",
   //"https://cdn.jsdelivr.net/gh/margo73465/stars/margo-party.js",
   //"https://cdn.jsdelivr.net/gh/margo73465/4825-mission/main.js",
 ];
