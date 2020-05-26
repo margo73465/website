@@ -1,3 +1,8 @@
+console.log( `Hi! Thanks for checking out my website :).
+  The source code is all un-minified in case you want to
+  see how anything works. Let me know if you have any
+  questions or comments!`);
+
 const screensavers = [
   "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js",
   "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js",
