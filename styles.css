@@ -14,7 +14,6 @@ body {
   text-shadow: 0 0 7px black;
   background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));
   padding-top: 100px;
-  padding-bottom: 20px;
 }
 
 h1 {
@@ -27,6 +26,8 @@ a {
 }
 
 .logo {
+  padding: 12px;
+  margin: 0 8px;
   height: 24px;
 }
 
