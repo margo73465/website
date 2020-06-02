@@ -11,6 +11,7 @@ const screensavers = [
   {
     "name": "triangles",
     "js": "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js"
+    "css": "https://cdn.jsdelivr.net/gh/margo73465/triangles/styles.css"
   },
   //{
   //  "name": "stars",
