@@ -7,6 +7,7 @@ const screensavers = [
   {
     "name": "squares",
     "js": "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js"
+    "css": "https://cdn.jsdelivr.net/gh/margo73465/squares/styles.css"
   },
   {
     "name": "triangles",
