@@ -6,19 +6,19 @@ console.log( `Hi, thanks for checking out my website!
 const screensavers = [
   {
     "name": "squares",
-    "js": "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js"
+    "js": "https://cdn.jsdelivr.net/gh/margo73465/squares/squares.js",
     "css": "https://cdn.jsdelivr.net/gh/margo73465/squares/styles.css"
   },
   {
     "name": "triangles",
-    "js": "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js"
+    "js": "https://cdn.jsdelivr.net/gh/margo73465/triangles/triangles.js",
     "css": "https://cdn.jsdelivr.net/gh/margo73465/triangles/styles.css"
   },
-  //{
-  //  "name": "stars",
-  //  "js": "https://cdn.jsdelivr.net/gh/margo73465/stars/margo-party.js",
-  //  "css": "https://cdn.jsdelivr.net/gh/margo73465/stars/styles.css"
-  //},
+  {
+    "name": "stars",
+    "js": "https://cdn.jsdelivr.net/gh/margo73465/stars/margo-party.js",
+    "css": "https://cdn.jsdelivr.net/gh/margo73465/stars/styles.css"
+  },
   {
     "name": "mural",
     "js": "https://cdn.jsdelivr.net/gh/margo73465/4825-mission/main.js",
